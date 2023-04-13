@@ -1,0 +1,16 @@
+
+nav{
+    background-color:olivedrab;
+}
+
+.head1{
+    font-weight: 900;
+    font-size: 80px;
+    font-style: italic;
+}
+
+@media screen and (max-width:768) {
+    .space{
+        padding-top: 2rem !important;
+    }
+}
