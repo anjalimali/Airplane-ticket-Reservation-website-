@@ -9,8 +9,9 @@ nav{
     font-style: italic;
 }
 
-@media screen and (max-width:768) {
+@media screen and (max-width:768px) {
     .space{
         padding-top: 2rem !important;
     }
+    
 }
